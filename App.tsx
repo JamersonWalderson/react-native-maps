@@ -7,7 +7,7 @@ import {
 import MapView from 'react-native-maps';
 
 export default function Home() {
-
+//teste
 	return(
 		<View style={{flex: 1, alignItems: 'center'}}>
 			 <MapView
